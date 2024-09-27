@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raj-Hawlader
-- 👀 I’m interested in Competitive Programming & Web Development
+- 💡 I’m interested in Competitive Programming & Web Development
 - 🌱 I’m currently learning MERN stack development.
 - 💞️ I’m looking to collaborate on Front-end development using React, Tailwind CSS, Bootstrap etc.
 - 📫 How to reach me - rajhawlader385.rh@gmail.com
