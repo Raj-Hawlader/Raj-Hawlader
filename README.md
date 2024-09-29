@@ -4,4 +4,4 @@
 
 💼 Open to collaborations in Front-end development, especially with React and Tailwind CSS.
 
-📫 Reach out anytime-rajhawlader385.rh@gmail.com
+📫 Reach out anytime - rajhawlader385.rh@gmail.com
